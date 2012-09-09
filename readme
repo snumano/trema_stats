@@ -1,0 +1,9 @@
+This directory includes examples that shows how to get switch information using features-request and portstats-request message.
+
+
+# How to run (Ruby version)
+
+  % cd /path/to/example
+  % ~/trema/trema run ./traffic-monitor.rb -c ./traffic_monitor.conf
+
+
